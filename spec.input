@@ -1,0 +1,21 @@
+# Input for SPECTREMAN Code
+.INIT 
+ 1
+ gs1.pot
+.DECAY
+ 2
+ ce1.pot
+ ce2.pot
+.FINAL
+ 1
+ gs1.pot
+.Rfinal
+ 13
+.Points
+ 2000
+.TYPE # spline, extend, espec, all
+ all
+.eSPec 
+ all
+.Cpus
+ 1
